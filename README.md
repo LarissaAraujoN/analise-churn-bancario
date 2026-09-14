@@ -20,8 +20,7 @@ Analisar a base de clientes do banco para entender quais perfis e comportamentos
 ## 📈 Principais Insights:
 
    * Clientes que entram em contato de até 2 vezes ao ano têm uma taxa de cancelamento quase nula.
-   * A partir do 4º contato, a proporção de cancelamentos cresce drasticamente.
-   * Clientes com 5 ou 6 contatos cancelam quase em sua totalidade indicando que pode haver um problema recorrente que não foi resolvido no primeiro suporte.
+   * A partir do 4º contato, a proporção de cancelamentos cresce drasticamente, indicando a principal causa de cancelamentos, podendo haver um problema recorrente que não foi resolvido no primeiro suporte.
 
 <img width="1255" height="440" alt="image" src="https://github.com/user-attachments/assets/7025093e-59e2-4d74-bac0-07cf47e2269a" />
 
